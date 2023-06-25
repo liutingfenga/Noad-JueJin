@@ -5,6 +5,6 @@
 - 简单的掘金广告隐藏
 
 
-# github-accelerator
+# Noad-JueJin
 
 油猴插件---掘金纯净模式
